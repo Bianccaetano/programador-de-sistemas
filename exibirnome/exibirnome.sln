@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exibirnome", "exibirnome.csproj", "{D67D5C73-5996-43EA-B0CE-EE7F53F4CF76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67D5C73-5996-43EA-B0CE-EE7F53F4CF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67D5C73-5996-43EA-B0CE-EE7F53F4CF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67D5C73-5996-43EA-B0CE-EE7F53F4CF76}.Debug|x64.ActiveCfg = Debug|x64
+		{D67D5C73-5996-43EA-B0CE-EE7F53F4CF76}.Debug|x64.Build.0 = Debug|x64
+		{D67D5C73-5996-43EA-B0CE-EE7F53F4CF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67D5C73-5996-43EA-B0CE-EE7F53F4CF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67D5C73-5996-43EA-B0CE-EE7F53F4CF76}.Release|x64.ActiveCfg = Release|x64
+		{D67D5C73-5996-43EA-B0CE-EE7F53F4CF76}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DE45240-9E5B-48A5-B913-E4711261933E}
+	EndGlobalSection
+EndGlobal
